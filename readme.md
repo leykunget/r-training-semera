@@ -2,12 +2,13 @@
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget)  
 
-Welcome to the **R Training for RDMC ** repository! This repository contains all the slides and materials for the R training program conducted at NDMC. The training covers key topics.
+Welcome to the **R Training at Semera** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
 
 ---
 
 ## 📌 Table of Contents
 - [About This Training](#about-this-training)
+- [Surveys](#surveys)
 - [Training Schedules](#training-schedules)
 - [Training Materials](#training-materials)
 - [How to Use This Repository](#how-to-use-this-repository)
@@ -28,9 +29,17 @@ This training is designed to help participants gain practical skills in R progra
 
 ---
 
+## Surveys
+Please be sure to complete these surveys before and after the workshop.
+
+- [Pre-training Survey](https://forms.gle/Y4oyyewFZwW1fZhh6)
+- [Post-training Survey]()
+
+---
+
 ##  Training Schedules 
 
-### 📅  Monday, July 21-25, 2025
+### Monday, July 21-25, 2025
 
 | Days  | Topic | Facilitator |
 |------|-----------------------------------------------|-------------|
