@@ -63,6 +63,6 @@ This training is designed to help participants gain practical skills in R progra
 2. Click on the **PDF** links to download the slides for offline use.
 3. Materials will be updated as the training progresses. Please check back for updates.
 
-If you have any questions or issues, please feel free to contact us through [leyk.get@gmail.com](leyk.get@gmail.com).
+If you have any questions or issues, please feel free to contact us through  [leyk.get@gmail.com](mailto:leyk.get@gmail.com).
 
 Happy Learning! 🎓  
