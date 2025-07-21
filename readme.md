@@ -71,8 +71,8 @@ Please be sure to complete these surveys before and after the workshop.
 
 You can download the datasets from the following links:
 
-- [Download surveys.csv](https://github.com/leykunget/r-training-semera/raw/main/data/surveys.csv)
-- [Download yrbss.csv](https://github.com/leykunget/r-training-semera/raw/main/data/yrbss.csv)
+- [Download surveys.csv](https://drive.google.com/uc?export=download&id=1BanaMyyBYcSASAhgYHj0pIiskvVjrIhX)
+- [Download yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
 
 ---
 
