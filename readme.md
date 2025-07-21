@@ -1,4 +1,4 @@
-# Basic R training organized by Afar PHI RDMC and NDMC at Semera
+# Basic R training organized by Afar PHI RDMC in collaboration with NDMC at Semera
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget)  
 
