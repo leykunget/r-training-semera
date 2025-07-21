@@ -1,8 +1,8 @@
-# R training organized by NDMC and RDMC at Semera
+# Basic R training organized by Afar PHI RDMC and NDMC at Semera
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget)  
 
-Welcome to the **R Training at Semera** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
+Welcome to the **Basic R Training** repository! This repository contains all the slides and materials for the R training program conducted by NDMC. The training covers key topics.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the **R Training at Semera** repository! This repository contains all
 ---
 
 ## About This Training
-This training is organized by **National Data Management Center for Health (NDMC) at Ethiopian Public Health Institute (EPHI)** for professionals of RDMC, Semera, Afar focusing on: 
+This training is organized by **Afar Public Health Institute (APHI) RDMC in collaboration with NDMC** for various professionals Semera, Afar focusing on: 
 
 - Understanding R and RStudio
 - Data wrangling using the Tidyverse 
