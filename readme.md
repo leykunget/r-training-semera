@@ -67,6 +67,15 @@ Please be sure to complete these surveys before and after the workshop.
 
 ---
 
+## Download the Datasets
+
+You can download the datasets from the following links:
+
+- [Download surveys.csv](https://github.com/leykunget/r-training-semera/raw/main/data/surveys.csv)
+- [Download yrbss.csv](https://github.com/leykunget/r-training-semera/raw/main/data/yrbss.csv)
+
+---
+
 ## 🚀 How to Use This Repository
 1. Click on the **HTML** links to view the slides online.
 2. Click on the **PDF** links to download the slides for offline use.
