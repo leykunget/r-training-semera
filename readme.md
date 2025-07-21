@@ -11,6 +11,7 @@ Welcome to the **Basic R Training** repository! This repository contains all the
 - [Surveys](#surveys)
 - [Training Schedules](#training-schedules)
 - [Training Materials](#training-materials)
+- [Download the Datasets](#download-the-datasets)
 - [How to Use This Repository](#how-to-use-this-repository)
 
 ---
