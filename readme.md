@@ -58,9 +58,8 @@ Please be sure to complete these surveys before and after the workshop.
 |--------------------------------------------|------------------------------------------------|------------------------------------------------|
 | Introduction to R and RStudio | [View](https://leykungetaneh.quarto.pub/day_1/) | [Download]() |
 | Data Manipulation with dplyr in R (Part 1) | [View](https://leykungetaneh.quarto.pub/data_transformation/) | [Download]() |
-| Data data management in R with the Tidyverse (Part 2: Recoding) | [View]() | [Download]() |
-| Data data management in R with the Tidyverse (Part 3: Reshape) | [View]() | [Download]() |
-| Data data management in R with the Tidyverse (Part 4: Merging) | [View]() | [Download]() |
+| Data data management in R with the Tidyverse (Part 2: Recoding) | [View](https://leykungetaneh.quarto.pub/var_recoding/) | [Download]() |
+| Data data management in R with the Tidyverse (Part 3: Merging) | [View](https://leykungetaneh.quarto.pub/data_merge/) | [Download]() |
 | Data Visualization ggplot2 (part 1: Plot)| [View]() | [Download]() |
 | Data Visualization ggplot2 (part 2: plot for factor variables | [View]() | [Download]() |
 | Reproducible Reports with R Markdown | [View]() | [Download]() |
