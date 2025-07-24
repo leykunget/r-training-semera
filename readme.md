@@ -45,8 +45,8 @@ Please be sure to complete these surveys before and after the workshop.
 | Days  | Topic | Facilitator |
 |------|-----------------------------------------------|-------------|
 | Day 1 | Introduction to R and Rstudio  | Leykun Getaneh|
-| Day 2 | Data manipulation part 1 and 2 | Leykun Getaneh |
-| day 3 | Data manipulation part 3  | Leykun Getaneh |
+| Day 2 | Data manipulation part 1  | Leykun Getaneh |
+| day 3 | Data manipulation part 2 and 3  | Leykun Getaneh |
 | Day 4 | Data Visualization | Leykun Getaneh |
 | Day 5 | Creating reproducible reports and Data analysis | Leykun Getaneh|
 
@@ -60,9 +60,8 @@ Please be sure to complete these surveys before and after the workshop.
 | Data Manipulation with dplyr in R (Part 1) | [View](https://leykungetaneh.quarto.pub/data_transformation/) | [Download]() |
 | Data data management in R with the Tidyverse (Part 2: Recoding) | [View](https://leykungetaneh.quarto.pub/var_recoding/) | [Download]() |
 | Data data management in R with the Tidyverse (Part 3: Merging) | [View](https://leykungetaneh.quarto.pub/data_merge/) | [Download]() |
-| Data Visualization ggplot2 (part 1: Plot)| [View]() | [Download]() |
-| Data Visualization ggplot2 (part 2: plot for factor variables | [View]() | [Download]() |
-| Reproducible Reports with R Markdown | [View]() | [Download]() |
+| Basic Data Visualization with ggplot2 | [View]() | [Download]() |
+| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 
 ---
