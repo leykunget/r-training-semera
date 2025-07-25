@@ -34,7 +34,7 @@ This training is designed to help participants gain practical skills in R progra
 Please be sure to complete these surveys before and after the workshop.
 
 - [Pre-training Survey](https://forms.gle/Y4oyyewFZwW1fZhh6)
-- [Post-training Survey]()
+- [Post-training Survey](https://forms.gle/7GYez8ZWCrzLXfj3A)
 
 ---
 
